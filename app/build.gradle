@@ -6,7 +6,6 @@ def DEBUG_VERSION_NAME = "1.0.0"
 def RELEASE_VERSION_NAME = "1.0.0"
 
 android {
-
     compileSdkVersion 28
     defaultConfig {
         flavorDimensions "1"
